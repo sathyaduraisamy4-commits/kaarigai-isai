@@ -74,7 +74,7 @@ website
   .section-title .gold { color: var(--gold); }
   .section-subtitle { color: var(--text-muted); max-width: 560px; line-height: 1.9; font-size: 1.05rem; }
 
-  /* ABOUThttps://elysiumacademy.org/ */
+  /* ABOUT*/
   .about { background: var(--bg-dark); }
   .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; }
   .about-visual { position: relative; width: 100%; aspect-ratio: 1; max-width: 400px; }
@@ -400,9 +400,12 @@ website
     <div class="footer-col">
       <h5>Quick Links</h5>
       <ul>
-        <li><a href="#about">About Us</a></li>
+      <a href="#" title="Facebookhttps://elysiumacademy.org/ ">ƒ</a>
+      <a href="#" title="Facebook https://elysiumacademy.org/ ">ƒ</a>
+        <li><a href="#about ">About Us</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
+      <a href="#" title="Facebookhttps://elysiumacademy.org/ ">ƒ</a>
         <li><a href="#contact">Contact</a></li>
       </ul>
     </div>
@@ -419,10 +422,12 @@ website
   <div class="footer-bottom">
     <p>© 2025 Kaarigai Isai. All rights reserved. | Made with ♥ in Coimbatore</p>
     <div class="social-links">
-      <a href="#" title="YouTube">▶</a>
-      <a href="#" title="Instagram">◈</a>
-      <a href="#" title="Facebook">ƒ</a>
-      <a href="#" title="Spotify">♫</a>
+      <a href="#" title="YouTube https://elysiumacademy.org/">▶</a>
+      <a href="#" title="Instagram https://elysiumacademy.org/ ">◈</a>
+      <a href="#" title="Facebook https://elysiumacademy.org/ ">ƒ</a>
+      <a href="#" title="Facebook https://elysiumacademy.org/ ">ƒ</a>
+      <a href="#" title="Facebookhttps://elysiumacademy.org/ ">ƒ</a>
+      <a href="#" title="Spotify  ">♫</a>
     </div>
   </div>
 </footer>
