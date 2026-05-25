@@ -74,7 +74,7 @@ website
   .section-title .gold { color: var(--gold); }
   .section-subtitle { color: var(--text-muted); max-width: 560px; line-height: 1.9; font-size: 1.05rem; }
 
-  /* ABOUT */
+  /* ABOUThttps://elysiumacademy.org/ */
   .about { background: var(--bg-dark); }
   .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; }
   .about-visual { position: relative; width: 100%; aspect-ratio: 1; max-width: 400px; }
